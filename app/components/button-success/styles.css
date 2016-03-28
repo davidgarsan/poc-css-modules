@@ -1,0 +1,4 @@
+.success {
+  composes: normal from '../button-default/styles';
+  background-color: #44a718;
+}

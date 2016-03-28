@@ -1,0 +1,7 @@
+
+.primary {
+  composes: normal from '../button-default/styles';
+  color: #006ec1;
+  box-shadow: inset -1px -1px 0 0 #006ec1,inset 1px 1px 0 0 #006ec1;
+  background-color: transparent;
+}

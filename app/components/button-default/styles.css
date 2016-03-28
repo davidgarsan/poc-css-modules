@@ -1,0 +1,20 @@
+.normal {
+  border-radius: 0;
+  line-height: 1em;
+  height: 44px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-sizing: border-box;
+  padding: 0 12px;
+  margin: 0;
+  width: 100%;
+  transition: all 0.2s ease-in-out;
+  text-align: center;
+  font-family: 'SB', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  letter-spacing: 0.0315em;
+  color: #fff;
+  background-color: #006ec1;
+  box-shadow: inset -1px -1px 0 0 transparent, inset 1px 1px 0 0 transparent;
+  cursor: pointer;
+}

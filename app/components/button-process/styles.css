@@ -1,0 +1,27 @@
+.process {
+  composes: normal from '../button-default/styles';
+  background: linear-gradient(#fff, #f3f5f7);
+  box-shadow: inset -1px -1px 0 0 #b6ceea, inset 1px 1px 0 0 #b6ceea;
+  justify-content: flex-start;
+  text-align: left;
+  color: #006ec1;
+}
+
+.icon {
+  width: 1em;
+  height: 1em;
+  display: inline-block;
+  font-family: 'icon-font'; /* FIXME: import custom font */
+  font-weight: normal;
+  font-style: normal;
+  font-variant: normal;
+  line-height: 1em;
+  text-transform: none;
+  -webkit-font-smoothing: antialiased;
+  font-size: 1.5em;
+
+  margin-right: 6px;
+}
+.icon:before {
+  content: "\e913";
+}
