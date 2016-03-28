@@ -1,7 +1,6 @@
 # Poc-css-modules
 
-This README outlines the details of collaborating on this Ember application.
-A short introduction of this app could easily go here.
+PoC of CSS Modules usage in EmberJS by using ember-css-modules.
 
 ## Prerequisites
 
