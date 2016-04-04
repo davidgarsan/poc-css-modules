@@ -8,7 +8,7 @@ module.exports = function(defaults) {
     // Add options here
     cssModules: {
       plugins: [
-        autoprefixer('last 2 versions')
+        autoprefixer('last 2 versions'),
       ]
     }
   });

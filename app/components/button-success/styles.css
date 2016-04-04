@@ -1,4 +1,6 @@
+@value hiliteBackgroundColor from '../../styles/variables';
+
 .success {
   composes: normal from '../button-default/styles';
-  background-color: #44a718;
+  background-color: hiliteBackgroundColor;
 }

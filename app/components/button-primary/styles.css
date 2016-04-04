@@ -1,7 +1,8 @@
+@value primaryFontColorButton, primaryBackgroundColor from '../../styles/variables';
 
 .primary {
   composes: normal from '../button-default/styles';
-  color: #006ec1;
+  color: primaryFontColorButton;
   box-shadow: inset -1px -1px 0 0 #006ec1,inset 1px 1px 0 0 #006ec1;
-  background-color: transparent;
+  background-color: primaryBackgroundColor;
 }

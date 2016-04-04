@@ -1,3 +1,5 @@
+@value secondaryFontColorButton, secondaryBackgroundColor from '../../styles/variables';
+
 .normal {
   border-radius: 0;
   line-height: 1em;
@@ -13,8 +15,8 @@
   text-align: center;
   font-family: 'SB', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   letter-spacing: 0.0315em;
-  color: #fff;
-  background-color: #006ec1;
+  color: secondaryFontColorButton;
+  background-color: secondaryBackgroundColor;
   box-shadow: inset -1px -1px 0 0 transparent, inset 1px 1px 0 0 transparent;
   cursor: pointer;
 }

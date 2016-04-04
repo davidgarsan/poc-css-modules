@@ -1,0 +1,65 @@
+@font-face {
+  font-family: 'H';
+  font-weight: normal;
+  font-style: normal;
+  src: url('res/fonts/HelveticaNeueW01-55Roma.eot');
+  src: url('res/fonts/HelveticaNeueW01-55Roma.eot?#iefix') format('embedded-opentype'),
+  url('res/fonts/HelveticaNeueW01-55Roma.woff') format('woff'),
+  url('res/fonts/HelveticaNeueW01-55Roma.ttf') format('truetype'),
+  url('res/fonts/HelveticaNeueW01-55Roma.svg#HelveticaNeueW01-55Roma') format('svg');
+}
+
+@font-face {
+  font-family: 'HL';
+  font-weight: normal;
+  font-style: normal;
+  src: url('res/fonts/HelveticaNeueW01-45Ligh.eot');
+  src: url('res/fonts/HelveticaNeueW01-45Ligh.eot?#iefix') format('embedded-opentype'),
+  url('res/fonts/HelveticaNeueW01-45Ligh.woff') format('woff'),
+  url('res/fonts/HelveticaNeueW01-45Ligh.ttf') format('truetype'),
+  url('res/fonts/HelveticaNeueW01-45Ligh.svg#HelveticaNeueW01-45Ligh') format('svg');
+}
+
+@font-face {
+  font-family: 'HM';
+  font-weight: normal;
+  font-style: normal;
+  src: url('res/fonts/HelveticaNeueW01-65Medi.eot');
+  src: url('res/fonts/HelveticaNeueW01-65Medi.eot?#iefix') format('embedded-opentype'),
+  url('res/fonts/HelveticaNeueW01-65Medi.woff') format('woff'),
+  url('res/fonts/HelveticaNeueW01-65Medi.ttf') format('truetype'),
+  url('res/fonts/HelveticaNeueW01-65Medi.svg#HelveticaNeueW01-65Medi') format('svg');
+}
+
+@font-face {
+  font-family: 'SB';
+  font-weight: normal;
+  font-style: normal;
+  src: url('res/fonts/bbvaweb-book.eot');
+  src: url('res/fonts/bbvaweb-book.eot?#iefix') format('embedded-opentype'),
+  url('res/fonts/bbvaweb-book.woff') format('woff'),
+  url('res/fonts/bbvaweb-book.ttf') format('truetype'),
+  url('res/fonts/bbvaweb-book.svg#bbvaweb-book') format('svg');
+}
+
+@font-face {
+  font-family: 'SL';
+  font-weight: normal;
+  font-style: normal;
+  src: url('res/fonts/bbvaweb-light.eot');
+  src: url('res/fonts/bbvaweb-light.eot?#iefix') format('embedded-opentype'),
+  url('res/fonts/bbvaweb-light.woff') format('woff'),
+  url('res/fonts/bbvaweb-light.ttf') format('truetype'),
+  url('res/fonts/bbvaweb-light.svg#bbvaweb-light') format('svg');
+}
+
+@font-face {
+  font-family: 'icon-font';
+  font-weight: normal;
+  font-style: normal;
+  src: url('res/iconfonts/new-icon-font/fonts/new-buzz-fontface.eot');
+  src: url('res/iconfonts/new-icon-font/fonts/new-buzz-fontface.eot?#iefix') format('embedded-opentype'),
+  url('res/iconfonts/new-icon-font/fonts/new-buzz-fontface.woff') format('woff'),
+  url('res/iconfonts/new-icon-font/fonts/new-buzz-fontface.ttf') format('truetype'),
+  url('res/iconfonts/new-icon-font/fonts/new-buzz-fontface.svg#bbvaweb-light') format('svg');
+}
