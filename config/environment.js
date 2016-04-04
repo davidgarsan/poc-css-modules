@@ -40,7 +40,8 @@ module.exports = function(environment) {
   }
 
   if (environment === 'production') {
-
+    ENV.rootURL = /poc-css-modules/;
+    ENV.location = 'hash';
   }
 
   return ENV;
